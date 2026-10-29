@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Thu Oct 29 10:53:59 2026
+# Process ID         : 4696
+# Current directory  : C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13476 C:\Users\HP\Downloads\COLLEGE\prct\4_BIT_RIPPLECARRY\4_BIT_RIPPLECARRY.xpr
+# Log file           : C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/vivado.log
+# Journal file       : C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY\vivado.jou
+# Running On         : LAPTOP-S22C2IE0
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26300
+# Processor Detail   : Intel(R) Core(TM) 5 120U
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 12
+# Host memory        : 16806 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17879 MB
+# Available Virtual  : 5313 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/4_BIT_RIPPLECARRY.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_four_bit_adder.tcl
+save_wave_config {C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/tb_four_bit_adder_behav.wcfg}
+add_files -fileset sim_1 -norecurse C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/tb_four_bit_adder_behav.wcfg
+set_property xsim.view C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/tb_four_bit_adder_behav.wcfg [get_filesets sim_1]
+update_compile_order -fileset sim_1
+close_sim

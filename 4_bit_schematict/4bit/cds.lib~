@@ -1,0 +1,4 @@
+SOFTINCLUDE /home/buet/cadence/IC615/share/cdssetup/cds.lib
+DEFINE adder /home/buet/Desktop/4bit/adder
+DEFINE adder1 /home/buet/Desktop/4bit/adder1
+DEFINE adder9 /home/buet/Desktop/4bit/adder9

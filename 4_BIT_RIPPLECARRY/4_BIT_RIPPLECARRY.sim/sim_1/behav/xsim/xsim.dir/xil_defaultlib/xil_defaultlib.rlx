@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/4_BIT_RIPPLECARRY.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/4_BIT_RIPPLECARRY.srcs/sim_1/new/tb_four_bit_adder.v,1793177670,verilog,,,,tb_four_bit_adder,,,D:/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/4_BIT_RIPPLECARRY.srcs/sources_1/new/four_bit_adder.v,1793177432,verilog,,C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/4_BIT_RIPPLECARRY.srcs/sources_1/new/full_adder.v,,four_bit_adder,,,D:/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/4_BIT_RIPPLECARRY.srcs/sources_1/new/full_adder.v,1793177335,verilog,,C:/Users/HP/Downloads/COLLEGE/prct/4_BIT_RIPPLECARRY/4_BIT_RIPPLECARRY.srcs/sim_1/new/tb_four_bit_adder.v,,full_adder,,,D:/2025.2/Vivado/data/rsb/busdef,,,,,
